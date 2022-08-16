@@ -1,0 +1,38 @@
+_repo: Nappy-has-a-new-friend_68563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hogan, Inez
+    birthdate: 1895
+    deathdate: 1973
+    gutenberg_agent_id: '54829'
+    url: http://www.gutenberg.org/2009/agents/54829
+description: ''
+gutenberg_issued: '2022-07-19'
+identifiers:
+  gutenberg: '68563'
+  lccn: '47001877'
+language: en
+pgterms:marc904: https://digitalcollections.nypl.org/items/7e8fb480-47d1-0135-616f-034da059223d
+pgterms:marc905: 20220601111812hogan
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (The New York Public Library's Digital Collections)
+publication_note: United States :E. P. Dutton & Company, Inc.,1947.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese Americans -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Juvenile fiction'
+- !lcsh 'Race relations -- Juvenile fiction'
+- !lcsh 'Minorities -- Juvenile fiction'
+- !lcsh 'Revues -- Juvenile fiction'
+- !lcsh 'Junk trade -- Juvenile fiction'
+- GITenberg
+title: Nappy has a new friend
+url: http://www.gutenberg.org/ebooks/68563
